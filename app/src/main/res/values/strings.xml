@@ -1,3 +1,45 @@
 <resources>
     <string name="app_name">hungrypartner</string>
+
+    <string name="Ramen">
+
+        /nMie telur
+        /nwortel
+        /nDaun bawang
+        /nRumput laut,Suwiran daging sapi,Bakso ikan,Telur rebus
+
+Bahan kuah: 2 siung bawang putih, 1/2 buah bawang bombay,2 sdm kecap asin,1 sdm saus tiram,1 sdm Kecap ikan
+,Merica,Garam
+
+Cara membuat:
+- Untuk kuah, tumis bawang putih dan bombai. Tuang air rebusan daging sapi. Beri bumbu pelengkap, angkat jika sudah mendidih.
+- Rebus mie dan pokcoy.
+- Taruh mie dan pokcoy di mangkuk. Siram kuah, beri topping daging suwir, wortel iris, rumput laut, telur rebus, dan bakso ikan.
+
+</string>
+
+    <string name="Mochi"> Bahan isian:
+- 50 gr kacang tanah sangrai, haluskan
+- 2 sdm wijen, sangrai
+- 4 sdm gula halus
+- 1 sdm minyak goreng
+- 1 jumput garam
+- Air secukupnya
+Bahan baluran:
+- 50 gr maizena
+- 1 lembar daun pandan, sangrai hingga kering
+Bahan kulit mochi:
+- 150 gr tepung ketan
+- 1 saset susu bubuk full cream
+- 1 sdm maizena
+- 60 gr gula pasir
+- 2 sdm minyak goreng
+- 200 ml air
+- Pewarna merah muda secukupnya
+Cara membuat:
+1. Buat bahan isian: campur semua bahan isian, tambahkan air sedikit demi sedikit sampai bisa dipulung. Bentuk bulat sesuai selera, sisihkan.
+2. Kemudian buat kulit mochi: campur semua bahan, aduk rata sampai gula larut. Lalu saring.
+3. Kukus 15 menit, aduk rata, dan kukus kembali 10 menit atau sampai matang. Angkat dan dinginkan.
+4. Gilas kulit mochi, potong kotak-kotak kecil. Ambil satu kulit, beri isian kacang dan wijen lalu bulatkan kembali.
+5. Balur dengan maizena tipis-tipis, kemas, dan siap disajikan.</string>
 </resources>

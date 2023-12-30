@@ -13,6 +13,27 @@
         android:theme="@style/Theme.Hungrypartner"
         tools:targetApi="31">
         <activity
+            android:name=".Maincategory"
+            android:exported="false" />
+        <activity
+            android:name=".saladcategory"
+            android:exported="false" />
+        <activity
+            android:name=".DetailActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DetailedActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HomeActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".ScreenActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity2"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="false" />
         <activity
